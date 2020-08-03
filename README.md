@@ -1,3 +1,2 @@
-# Flutter MVP
-
-Contoh penerapan MVP di Flutter
+# FlutterMVP
+Example of MVP in Flutter
